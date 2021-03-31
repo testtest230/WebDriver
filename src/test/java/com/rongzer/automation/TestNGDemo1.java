@@ -29,6 +29,9 @@ public class TestNGDemo1 {
 //        webdriver.get("https://mail.163.com/");
 
 
+        System.out.println("hahahha");
+
+
     }
 
     /**
